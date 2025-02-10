@@ -1,0 +1,18 @@
+[{
+  "name": "Peter",
+  "age": 30,
+  "isEmployed": true,
+  "hobbies": ["fishing","internet browsing"]
+},
+{
+  "name": "Patrick",
+  "age": 35,
+  "isEmployed": false,
+  "hobbies": ["cricket","table tennis"]
+},
+{
+  "name": "Patras",
+  "age": 50,
+  "isEmployed": true,
+  "hobbies": ["football","games"]
+}]
