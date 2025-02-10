@@ -1,0 +1,21 @@
+.mybutton{
+  font-size: 4rem;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  padding:  10px 15px;
+}
+
+.enabled{
+  background-color: rgb(67, 67, 218);
+  color: white;
+}
+.hover{
+  background-color: rgb(24, 23, 23);
+  color: red;
+}
+.disabled{
+  background-color: rgb(37, 4, 69);
+  color: brown;
+  
+}
