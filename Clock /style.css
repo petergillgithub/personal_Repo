@@ -1,0 +1,27 @@
+body{
+  background-image: url(https://images.unsplash.com/photo-1585951301678-8fd6f3b32c7e?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  background-repeat: no-repeat;
+  background-size:  cover;
+  /* background-position:center; */
+  margin: 0;
+}
+
+#clockContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* background-color: red; */
+  height: 100vh;
+}
+#clock{
+  color: white;
+  font-size: 3.5rem;
+  background-color: hsl(0, 0%, 100%,0.1);
+  /* padding: 20px 100px; */
+  font-family: Arial sans-serif;
+  backdrop-filter: blur(40%);
+  font-weight: bold;
+  width: 100%;
+  text-align: center;
+
+}
