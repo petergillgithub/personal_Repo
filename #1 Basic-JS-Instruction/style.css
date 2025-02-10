@@ -1,0 +1,25 @@
+body{
+  background-color: rgb(72, 66, 66);
+}
+
+#content{
+  background-color: rgb(205, 218, 205);
+  border-radius: 2px;
+  width: 20%;
+  
+}
+
+#greeting{
+  background-color: antiquewhite;
+  margin: 2px 2px;
+
+}
+
+h1{
+  color: green;
+}
+td {
+  background-color:rgb(165, 115, 115);
+  color: white;
+  width: 80%;
+}
