@@ -20,4 +20,4 @@ setInterval(() => {
   hr.style.transform = `rotate(${hh+(mm/12)}deg)`;
   mn.style.transform = `rotate(${mm}deg)`;
   sc.style.transform = `rotate(${ss}deg)`;
-});
+},1000);
